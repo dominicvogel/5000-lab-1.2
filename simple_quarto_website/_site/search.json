@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "My Heading\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed cras ornare arcu dui vivamus arcu felis. Dis parturient montes nascetur ridiculus mus. Tincidunt ornare massa eget egestas purus viverra. Porttitor massa id neque aliquam vestibulum morbi. Fringilla phasellus faucibus scelerisque eleifend. Faucibus nisl tincidunt eget nullam non nisi est sit amet. Urna id volutpat lacus laoreet non. Sed pulvinar proin gravida hendrerit lectus a. Sed odio morbi quis commodo odio aenean sed adipiscing. Bibendum at varius vel pharetra vel turpis nunc. Nec dui nunc mattis enim ut tellus elementum sagittis. Nisl rhoncus mattis rhoncus urna neque viverra. Elit at imperdiet dui accumsan.\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n\n\n\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n\n\nA Mermaid diagram\nHere is an image with the LaTeX logo:\nHere is a second image that I found interesting:\n\\(E=mc^2\\)\n\\[\nE = mc^2\n\\]\nIf this was a citation, this is how I would do it (Dhar 2013)\nHere is a stock video"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\nMy Heading\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Sed cras ornare arcu dui vivamus arcu felis. Dis parturient montes nascetur ridiculus mus. Tincidunt ornare massa eget egestas purus viverra. Porttitor massa id neque aliquam vestibulum morbi. Fringilla phasellus faucibus scelerisque eleifend. Faucibus nisl tincidunt eget nullam non nisi est sit amet. Urna id volutpat lacus laoreet non. Sed pulvinar proin gravida hendrerit lectus a. Sed odio morbi quis commodo odio aenean sed adipiscing. Bibendum at varius vel pharetra vel turpis nunc. Nec dui nunc mattis enim ut tellus elementum sagittis. Nisl rhoncus mattis rhoncus urna neque viverra. Elit at imperdiet dui accumsan.\n\n\nMy Subheading\n\n\n\n\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\nSed cras ornare arcu dui vivamus arcu felis.\n\n\n\n\nDis parturient montes nascetur ridiculus mus.\n\n\nTincidunt ornare massa eget egestas purus viverra.\n\n\n\n\nPorttitor massa id neque aliquam vestibulum morbi.\n\n\nFringilla phasellus faucibus scelerisque eleifend.\n\n\n\n\n\nAnother Subheading\n\n\n\nTurpis massa sed elementum tempus egestas.\n\n\nEt netus et malesuada fames ac turpis. Diam maecenas\n\n\nFelis imperdiet proin fermentum leo vel orci porta non pulvinar [^1]\n\n\n\nimport matplotlib.pyplot as plt\n  \nx = [1,2,3]\ny = [2,4,1] \nplt.plot(x, y)\nplt.xlabel('x - axis')\nplt.ylabel('y - axis')\nplt.title('Sample Graph')\nplt.show()"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "Home",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is an interesting footnote.↩︎"
+  },
+  {
+    "objectID": "index.html#if-this-was-a-citation-this-is-how-i-would-do-it-dhar2013data",
+    "href": "index.html#if-this-was-a-citation-this-is-how-i-would-do-it-dhar2013data",
+    "title": "Home",
+    "section": "If this was a citation, this is how I would do it (Dhar 2013)",
+    "text": "If this was a citation, this is how I would do it (Dhar 2013)\n\nHere is a stock video\n\n\n\nYour browser does not support the video tag."
+  },
+  {
+    "objectID": "index.html#my-subheading",
+    "href": "index.html#my-subheading",
+    "title": "Home",
+    "section": "",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n\n\nSed cras ornare arcu dui vivamus arcu felis.\n\n\n\n\nDis parturient montes nascetur ridiculus mus.\n\n\nTincidunt ornare massa eget egestas purus viverra.\n\n\n\n\nPorttitor massa id neque aliquam vestibulum morbi.\n\n\nFringilla phasellus faucibus scelerisque eleifend.\n\n\n\n\n\n\n\nTurpis massa sed elementum tempus egestas.\n\n\nEt netus et malesuada fames ac turpis. Diam maecenas\n\n\nFelis imperdiet proin fermentum leo vel orci porta non pulvinar 1\n\n\n\n\n\n\nHeader 1\nHeader 2\nHeader 3\n\n\n\n\nRow 1, Col 1\nRow 1, Col 2\nRow 1, Col 3\n\n\nRow 2, Col 1\nRow 2, Col 2\nRow 2, Col 3\n\n\nRow 3, Col 1\nRow 3, Col 2\nRow 3, Col 3\n\n\n\n\n\n\n\n\nflowchart LR\n  A[Hard edge] --&gt; B(Round edge)\n  B --&gt; C{Decision}\n  C --&gt; D[Result one]\n  C --&gt; E[Result two]\n\n\nA Mermaid diagram\n\n\n\n\nHere is an image with the LaTeX logo:\n\n\n\nHere is a second image that I found interesting:\n\n\n\n\\(E=mc^2\\)\n\nThis quote will separate the two LaTeX equations\n\n\n\\[\nE = mc^2\n\\]\n\nIf this was a citation, this is how I would do it (Dhar 2013)\n\n\nHere is a stock video\n\n\n\nYour browser does not support the video tag."
+  },
+  {
+    "objectID": "slides/slides.html#slide-1",
+    "href": "slides/slides.html#slide-1",
+    "title": "Example Slides",
+    "section": "Slide 1",
+    "text": "Slide 1\n\nHere is a picture of the sun"
+  },
+  {
+    "objectID": "slides/slides.html#slide-2",
+    "href": "slides/slides.html#slide-2",
+    "title": "Example Slides",
+    "section": "Slide 2",
+    "text": "Slide 2\n\nThis is a fun second slide\nHere is a picture of the moon\n\n\n\nIf I wanted to cite a source, I would do this (Dhar 2013)"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3",
+    "href": "slides/slides.html#slide-3",
+    "title": "Example Slides",
+    "section": "Slide 3",
+    "text": "Slide 3\n\n\nShow the code\nimport numpy as np\nimport matplotlib.pyplot as plt\n\nr = np.arange(0, 2, 0.01)\ntheta = 2 * np.pi * r\nfig, ax = plt.subplots(subplot_kw={\"projection\": \"polar\"})\nax.plot(theta, r)\nax.set_rticks([0.5, 1, 1.5, 2])\nax.grid(True)\nplt.show()"
+  },
+  {
+    "objectID": "slides/slides.html#section",
+    "href": "slides/slides.html#section",
+    "title": "Example Slides",
+    "section": "",
+    "text": "Dhar, Vasant. 2013. “Data Science and Prediction.” Communications of the ACM 56 (12): 64–73."
+  },
+  {
+    "objectID": "slides/slides.html#citations",
+    "href": "slides/slides.html#citations",
+    "title": "Example Slides",
+    "section": "Citations",
+    "text": "Citations\n\n\n\n\n\n\nDhar, Vasant. 2013. “Data Science and Prediction.” Communications of the ACM 56 (12): 64–73."
+  },
+  {
+    "objectID": "slides/slides.html",
+    "href": "slides/slides.html",
+    "title": "Citations",
+    "section": "",
+    "text": "Here is a picture of the sun"
+  },
+  {
+    "objectID": "slides/slides.html#slide-4",
+    "href": "slides/slides.html#slide-4",
+    "title": "Example Slides",
+    "section": "Slide 4",
+    "text": "Slide 4\n#| echo: true\n#| code-fold: true\n#| code-summary: \"expand for full code\"\nlibrary(ggplot2)\ndat &lt;- data.frame(cond = rep(c(\"A\", \"B\"), each=10),\n                  xvar = 1:20 + rnorm(20,sd=3),\n                  yvar = 1:20 + rnorm(20,sd=3))\n\nggplot(dat, aes(x=xvar, y=yvar)) +\n  geom_point(shape=1) + \n  geom_smooth()"
+  },
+  {
+    "objectID": "slides/slides.html#graph",
+    "href": "slides/slides.html#graph",
+    "title": "Example Slides",
+    "section": "Graph",
+    "text": "Graph\n#| echo: true\n#| code-fold: true\n#| code-summary: \"expand for full code\"\nlibrary(ggplot2)\ndat &lt;- data.frame(cond = rep(c(\"A\", \"B\"), each=10),\n                  xvar = 1:20 + rnorm(20,sd=3),\n                  yvar = 1:20 + rnorm(20,sd=3))\n\nggplot(dat, aes(x=xvar, y=yvar)) +\n  geom_point(shape=1) + \n  geom_smooth()"
+  },
+  {
+    "objectID": "slides/slides.html#citations-output",
+    "href": "slides/slides.html#citations-output",
+    "title": "Example Slides",
+    "section": "Citations",
+    "text": "Citations"
+  },
+  {
+    "objectID": "slides/slides.html#slide-3-output",
+    "href": "slides/slides.html#slide-3-output",
+    "title": "Example Slides",
+    "section": "Slide 3",
+    "text": "Slide 3"
+  }
+]
